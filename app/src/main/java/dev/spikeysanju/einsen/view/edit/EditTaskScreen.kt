@@ -430,7 +430,7 @@ internal fun BottomSheetTitle() {
             top = AppTheme.dimensions.paddingXL,
             bottom = AppTheme.dimensions.paddingXXL
         ),
-        text = stringResource(R.string.tetxt_choose_emoji),
+        text = stringResource(R.string.text_choose_emoji),
         style = AppTheme.typography.h1,
         textAlign = TextAlign.Start,
         color = AppTheme.colors.text

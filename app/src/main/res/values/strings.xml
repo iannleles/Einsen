@@ -20,55 +20,55 @@
 <resources>
 
     <!--    Application name-->
-    <string name="app_name">Einsen</string>
+    <string name="app_name">EasyTask</string>
 
     <!--    Application screens-->
-    <string name="text_splash">Splash</string>
+    <string name="text_splash">Respingo</string>
     <string name="text_dashboard">Dashboard</string>
-    <string name="text_addTask">Add Task</string>
-    <string name="text_editTask">Edit Task</string>
-    <string name="text_about">About</string>
-    <string name="text_allTask">All Task</string>
-    <string name="text_taskDetails">Task Details</string>
-    <string name="text_project">My Project</string>
+    <string name="text_addTask">Adicionar tarefa</string>
+    <string name="text_editTask">Editar Tarefa</string>
+    <string name="text_about">Sobre</string>
+    <string name="text_allTask">Todas as tarefas</string>
+    <string name="text_taskDetails">Detalhes</string>
+    <string name="text_project">Meu projeto</string>
 
     <!--    Empty State -->
-    <string name="text_no_task_title">No tasks yet</string>
-    <string name="text_no_task_description">Be sure to add your first task!</string>
-    <string name="text_no_emoji_description">Sorry we couldn\'t find any matches :(</string>
-    <string name="text_add_a_task">Add a task</string>
-    <string name="text_error_title">Well, this is unexpected…</string>
-    <string name="text_error_description"><![CDATA[Sorry, we\'re having technical issues (as you can see) try to add some task & try again…]]></string>
+    <string name="text_no_task_title">Sem tarefas no momento</string>
+    <string name="text_no_task_description">Não se esqueça de adicionar sua primeira tarefa</string>
+    <string name="text_no_emoji_description">Desculpe, não conseguimos encontrar nenhuma correspondência :(</string>
+    <string name="text_add_a_task">Adicionar tarefa</string>
+    <string name="text_error_title">Bem, isso é inesperado…</string>
+    <string name="text_error_description"><![CDATA[Desculpe, estamos tendo problemas técnicos (como você pode ver), tente adicionar alguma tarefa e tente novamente…]]></string>
 
     <!--    Dashboard-->
-    <string name="text_do_it_now">Do it now</string>
-    <string name="text_decide_when_todo">Decide when to do</string>
-    <string name="text_important_not_urgent">Important Not Urgent</string>
-    <string name="text_important_and_urgent">Urgent and Important</string>
-    <string name="text_delegate_it">Delegate it</string>
-    <string name="text_urgent_not_important">Urgent Not Important</string>
-    <string name="text_dump_it">Dump it!</string>
-    <string name="text_not_important_not_urgent">Not Important Not Urgent</string>
-    <string name="text_my_dashboard">My Dashboard</string>
-    <string name="text_bulb_turn_on">Day mode on</string>
-    <string name="back_button">Back Button</string>
+    <string name="text_do_it_now">Faça isso agora</string>
+    <string name="text_decide_when_todo">Decida quando fazer</string>
+    <string name="text_important_not_urgent">Importante não urgente</string>
+    <string name="text_important_and_urgent">Urgente e importante</string>
+    <string name="text_delegate_it">Delegar isso</string>
+    <string name="text_urgent_not_important">Urgente não importante</string>
+    <string name="text_dump_it">Jogue fora!</string>
+    <string name="text_not_important_not_urgent">Não importante, Não urgente</string>
+    <string name="text_my_dashboard">Meu Dashboard</string>
+    <string name="text_bulb_turn_on">Modo diurno ativado</string>
+    <string name="back_button">Botão voltar</string>
 
     <!--    Add/Edit Task & Task Details-->
-    <string name="text_title">Title</string>
-    <string name="text_description">Description</string>
-    <string name="text_category">Category</string>
-    <string name="text_due_date_time">Due Date Time</string>
-    <string name="text_importance">Importance</string>
-    <string name="text_save_task">Save Task</string>
-    <string name="text_urgency">Urgency</string>
-    <string name="tetxt_choose_emoji">Choose Emoji</string>
-    <string name="text_edit_button">Edit Button</string>
-    <string name="text_delete_button">Delete Button</string>
-    <string name="text_share_button">Share Button</string>
-    <string name="text_complete">Complete</string>
-    <string name="text_incomplete">Incomplete</string>
-    <string name="text_all_emoji">All Emoji</string>
-    <string name="text_message_share">Title: %s %s \n\nDescription: %s \n\nCategory: %s \n\n\Priority: %s \n\n\nCreatedAt: %s \n\nVisit: https://github.com/Spikeysanju/Einsen</string>
+    <string name="text_title">Titulo</string>
+    <string name="text_description">Descrição</string>
+    <string name="text_category">Categoria</string>
+    <string name="text_due_date_time">Data/Hora Vencimento</string>
+    <string name="text_importance">Importância</string>
+    <string name="text_save_task">Salvar tarefa</string>
+    <string name="text_urgency">Urgência</string>
+    <string name="text_choose_emoji">Escolha Emoji</string>
+    <string name="text_edit_button">Botão Editar</string>
+    <string name="text_delete_button">Botão Deletar</string>
+    <string name="text_share_button">Botão compartilhar</string>
+    <string name="text_complete">Completa</string>
+    <string name="text_incomplete">Incompleta</string>
+    <string name="text_all_emoji">Todos emojis</string>
+    <string name="text_message_share">Título: %s %s \n\nDescrição: %s \n\nCategoria: %s \n\n\Prioridade: %s \n\n\nCriado Em: %s</string>
 
     <!--   About-->
     <string name="text_attribution_and_license"><![CDATA[Attribution & License]]></string>
